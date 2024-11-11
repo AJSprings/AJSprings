@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - <b>Extensive experience in implementation of transformations, Stored Procedures, and execution of test plans for loading the data successfully into the targets.</b>
   
   
-- [My Data EXCEL Project](https://github.com/sukumar8455/Project_1/tree/main)
+- [My Data EXCEL Project](https://github.com/AJSprings/ProjectExamples/blob/main/Excel%20-%20Project%20AJS.xlsx)
 
 <h2>PROJECT-2</h2>
 
