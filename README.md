@@ -11,24 +11,12 @@ AJSprings/AJSprings is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Greetings, I'm Anthony Springs <br/><a href="https://github.com/AJSprings">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Greetings, I'm Anthony Springs <br/><a href="https://github.com/AJSprings">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Certified</a>, <a href="https://www.youtube.com/c/joshmadakor">Music Producer</a></h1>
 
-
-<h2>👨‍💻 Working as a Software Developer :</h2>
-
-- <b>Data Engineering summary</b>
-  - Over 11+ years of professional IT experience with 9 Years of Big Data Hadoop Ecosystems experience in ingestion, storage, querying, processing, and analysis of big data.
-  - Experience with leveraging Hadoop ecosystem components including Pig and Hive for data analysis, Sqoop for data migration, Oozie for scheduling and HBase as a NoSQL data store.
-  - Hands on Experience in AWS EC2, S3, Redshift, EMR, RDS, Glue, Dynamo DB.
-- <b>Involved in Extraction, Transformation, and Loading (ETL) of data from multiple sources like Flat files, XML files, and Databases.</b>
-- <b>Optimizing existing algorithms in Hadoop using Spark Context, Spark-SQL, Data Frames and Pair RDD's.</b>
-- <b>Hands-on experience with Informatica power center and power exchange in integrating with different applications and relational databases.</b>
-- <b>Manage all CM tools (JIRA, Confluence, Maven, Jenkins, Git, GitHub, Visual Studio) and their usage / process ensuring traceability, repeatability, quality, and support.</b>
 
 <h2>EDUCATION</h2>
 
-- <b>Master’s in computer science, California University of Management and Sciences, Anaheim, California –2015</b>
-- <b>Bachelor of Engineering in Computer Science, Jawaharlal Nehru Technological University, Hyderabad, India – 2008</b>
+- <b>Bachelor’s in computer science, University of North Carolina, Software Systems & networks, Robotics AI & Gaming, Charlotte, North Carolina –2023</b>
 
 <h2>PROJECT-1</h2>
 
