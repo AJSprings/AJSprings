@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
     
 - [Power BI Project](https://github.com/AJSprings/ProjectExamples/blob/main/AJS%20PBI%20Proj%20(1).pbix)
 
-- <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
+<!---- <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>--->
 
 
 <h2> 🤳 Connect with me:</h2>
