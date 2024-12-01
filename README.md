@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 - <b>ISC2 Member, Certified in Cybersecurity -2024</b>
 
+<h1>PROJECTS (WIP, more of my existing & Upcoming projects will be put on this site soon)</h1>
+
 <h2>PROJECT-1</h2>
 
 - <b>Worked with Excel to Build a data analysis dashboard using sales data of a company using excel pivot tables, formulas, functions, and slicers.
@@ -32,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 - <b>Built a data analysis dashboard using sales data of a company using appropriate Microsoft Power BI visuals and slicers.</b>
 - <b> Experience and knowledge of connecting SQL databases to Collect information to generate reports.</b>
     
-- [Power BI Project](https://github.com/sukumar8455/project_2)
+- [Power BI Project](https://github.com/AJSprings/ProjectExamples/blob/main/AJS%20PBI%20Proj%20(1).pbix)
 
 - <kbd><img width="397" alt="image" src="https://github.com/sukumar8455/project_2/blob/main/Excel_png.png"></kbd>
 
